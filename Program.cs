@@ -7,6 +7,7 @@ namespace v8test_app
         public static void Main(string[] args)
         {
             Console.WriteLine("sdfsdfsdfsdf");
+            Console.WriteLine("Текстовое сообщение");
         }
     }
 }
